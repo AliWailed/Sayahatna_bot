@@ -2,7 +2,7 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # تم تحديث التوكن الجديد الخاص بك هنا
-API_TOKEN = '8820376264:AAFQpf1DTwbgZZJnJPQE0EL4wwnk1ErhjrA'
+API_TOKEN ='8820376264:AAFqbyy3OHZqyPAej53UmxAXLWMFu_aCSeM'
 bot = telebot.TeleBot(API_TOKEN)
 
 # معرف حسابك كآدمن للبوت
